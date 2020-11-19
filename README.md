@@ -1,5 +1,5 @@
-# Creating a Choose Your Own Adventure Game
+# Creating a Trivia Quiz
 
-This is an activity for FSWD Lesson 1.10.2- Conditional Statements.
+This is an activity for FSWD Lesson 1.10.7- Review.
 
 Please refer to the Activity Guide in Canvas for directions.
