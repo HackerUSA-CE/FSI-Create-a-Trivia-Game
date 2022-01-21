@@ -1,5 +1,5 @@
 # Creating a Trivia Quiz
 
-This is an activity for FSWD Lesson 1.10.7- Review.
+This is an activity for SD Lesson 1.6.4- Review.
 
 Please refer to the Activity Guide in Canvas for directions.
